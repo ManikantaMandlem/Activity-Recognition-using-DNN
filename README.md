@@ -3,8 +3,11 @@ Real time activity detection using acceleration and gryo data from Arduino Nano 
 
 
 Collected acceleration and gyroscope data using Arduino Nano 33 BLE sense for 12 different physical activities
+
 Trained an autoencoder to detect anomalous activity other than 12 activities
+
 Trained a neural network model to detect the activity using Tensorflow
+
 Deployed the model on arduino nano 33 BLE sense for real time activity detection using Tensorflow Lite
 
 Raw data full data: Trained the model using segments of raw data where data is sourced from ~30 participants
